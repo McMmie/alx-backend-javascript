@@ -1,0 +1,23 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "PROMISES Promises (how, why, and what) How to use the then, resolve, catch methods How to use every method of the Promise object Throw / Try The await operator How to use an async function",
+  "main": "0-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McMmie/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McMmie/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/McMmie/alx-backend-javascript#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
